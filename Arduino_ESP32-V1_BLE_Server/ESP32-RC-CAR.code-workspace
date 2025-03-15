@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "Arduino_ESP32-S3_BLE_Server",
+			"path": "."
+		}
+	],
+	"settings": {},
+	"launch": {
+		"configurations": [
+			{
+				"type": "cmake",
+				"request": "launch",
+				"name": "Debug portfile(s)",
+				"cmakeDebugType": "external",
+				"pipeName": "\\\\.\\pipe\\vcpkg_ext_portfile_dbg",
+				"preLaunchTask": "Debug vcpkg commands"
+			}
+		]
+	}
+}
