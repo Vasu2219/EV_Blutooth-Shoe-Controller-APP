@@ -1,5 +1,5 @@
-name: rc_controller_ble
-description: "RC CAR Controller BLE Version"
+name: ev_shoe_controller
+description: "EV Bluetooth Shoe Controller App"
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
