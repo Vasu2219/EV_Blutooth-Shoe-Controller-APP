@@ -9,7 +9,7 @@ This project implements a Bluetooth Low Energy (BLE) controlled EV shoes system 
 ├── Arduino_ESP32-S3_BLE_Server/    # ESP32 firmware
 │   └── Arduino_ESP32-S3_BLE_Server.ino
 └── Flutter_App/                    # Mobile application
-    └── rc_controller_ble/         # Flutter project directory
+    └── Ev_controller_ble/         # Flutter project directory
 ```
 
 ## Hardware Requirements
